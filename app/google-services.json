@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "708939326608",
+    "firebase_url": "https://petukji-3ff26-default-rtdb.firebaseio.com",
+    "project_id": "petukji-3ff26",
+    "storage_bucket": "petukji-3ff26.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708939326608:android:20f42adc3c412ecccfa415",
+        "android_client_info": {
+          "package_name": "com.example.petukji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708939326608-ast9plfsffvkcn2cegc61pq7d8v57sm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJTyCQeV2vfWb2nxbvOglYXeZmKGpf76I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708939326608-ast9plfsffvkcn2cegc61pq7d8v57sm2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

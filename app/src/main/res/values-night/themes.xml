@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.PetukJi" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#AD40BB1D</item>
+        <item name="colorPrimaryVariant">#AD40BB1D</item>
+        <item name="colorOnPrimary">#AD40BB1D</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#AD40BB1D</item>
+        <item name="colorSecondaryVariant">#AD40BB1D</item>
+        <item name="colorOnSecondary">#AD40BB1D</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
